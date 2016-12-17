@@ -1,0 +1,13 @@
+.bash_history
+.augeas
+.cache
+.config
+.local
+.my.cnf
+.mysql_history
+log
+.profile
+.rnd
+.ssh
+dump*
+install*
